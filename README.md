@@ -1,6 +1,6 @@
 # OpenWorld-RayLib
 
-A scratch project implemented to explore Raylib library, which implements an open-world game. It is a survival game, where "AI enemies" target the player with an intent to kill. Player has to kill the enemies and stay alive. (Still work-in-progress).
+A scratch project to explore Raylib library, which implements an open-world game. It is a survival game, where "AI enemies" target the player with an intent to kill. Player has to kill the enemies and stay alive. (Still work-in-progress).
 
 ### Features include:
 - AI enemies zero in on the player's location and attempt to kill.
